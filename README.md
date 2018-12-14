@@ -26,4 +26,4 @@ The city also seems to be struggling in a number of key areas including:
 
 ### Link to Shiny App
 
-https://jpirrmann.shinyapps.io/NFL_Analysis/
+https://justin7979.shinyapps.io/Final-Project-for-GOV-1005-First-App/
